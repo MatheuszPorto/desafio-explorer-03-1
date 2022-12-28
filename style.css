@@ -150,3 +150,8 @@ footer {
   border: none;
   border-radius: 20px;
 }
+
+.button:hover {
+  cursor: pointer;
+  background: #f23b5f;
+}
